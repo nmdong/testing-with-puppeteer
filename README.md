@@ -1,4 +1,4 @@
-# testing-with-puppeteer
+# Testing-with-puppeteer
 What is Puppeteer?
 Puppeteer is a Node.js library developed by Google that lets you control headless Chrome through the DevTools Protocol.
 
